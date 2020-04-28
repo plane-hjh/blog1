@@ -2,4 +2,4 @@
 
 ## javascript学习
 
-[JavaScript深入理解之继承]()
+[JavaScript深入理解之继承](https://github.com/plane-hjh/blog1/issues)
