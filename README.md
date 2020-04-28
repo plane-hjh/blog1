@@ -12,6 +12,24 @@
 
 [树的遍历](https://github.com/plane-hjh/blog1/issues/4)
 
+[剑指offer-javascript版-从尾到头打印链表](https://github.com/plane-hjh/blog1/issues/6)
+
+[剑指offer-javascript版-二维数组中的查找](https://github.com/plane-hjh/blog1/issues/7)
+
+[剑指offer-javascript版-斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
+
+[剑指offer-javascript版-剪绳子](https://github.com/plane-hjh/blog1/issues/9)
+
+[剑指offer-javascript版-替换空格](https://github.com/plane-hjh/blog1/issues/10)
+
+[剑指offer-javascript版-旋转数组的最小数字](https://github.com/plane-hjh/blog1/issues/11)
+
+[剑指offer-javascript版-用两个栈实现队列](https://github.com/plane-hjh/blog1/issues/12)
+
+[剑指offer-javascript版-找出数组中的数字](https://github.com/plane-hjh/blog1/issues/13)
+
+[剑指offer-javascript版-重建二叉树](https://github.com/plane-hjh/blog1/issues/14)
+
 ## http学习
 
 [浏览器缓存的基本认识](https://github.com/plane-hjh/blog1/issues/5)
