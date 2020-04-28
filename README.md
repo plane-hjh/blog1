@@ -14,8 +14,16 @@
 
 ## http学习
 
-正在学习中...
+[浏览器缓存的基本认识](https://github.com/plane-hjh/blog1/issues/5)
+
+https 通信的过程
+
+DNS 的遍历
 
 ## Node学习
 
 正在学习中...
+
+## 工程化
+
+前端异常埋点监控以及数据上报
