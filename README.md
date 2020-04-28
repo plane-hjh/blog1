@@ -42,6 +42,8 @@ https 通信的过程
 
 DNS 的遍历
 
+service worker 的最佳实践
+
 ## Node学习
 
 正在学习中...
