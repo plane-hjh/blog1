@@ -34,6 +34,8 @@
 
 [剑指offer-javascript版-重建二叉树](https://github.com/plane-hjh/blog1/issues/14)
 
+[leetcode-javascript版-重建二叉树](https://github.com/plane-hjh/blog1/issues/15)
+
 ## http学习
 
 [浏览器缓存的基本认识](https://github.com/plane-hjh/blog1/issues/5)
