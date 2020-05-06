@@ -34,7 +34,9 @@
 
 [剑指offer-javascript版-重建二叉树](https://github.com/plane-hjh/blog1/issues/14)
 
-[leetcode-javascript版-重建二叉树](https://github.com/plane-hjh/blog1/issues/15)
+[leetcode-javascript版-反转链表](https://github.com/plane-hjh/blog1/issues/15)
+
+[leetcode-javascript版-合并两个有序的链表](https://github.com/plane-hjh/blog1/issues/16)
 
 ## http学习
 
