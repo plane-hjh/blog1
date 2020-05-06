@@ -38,6 +38,8 @@
 
 [leetcode-javascript版-合并两个有序的链表](https://github.com/plane-hjh/blog1/issues/16)
 
+[leetcode-javascript版-链表中倒数第k个节点](https://github.com/plane-hjh/blog1/issues/17)
+
 ## http学习
 
 [浏览器缓存的基本认识](https://github.com/plane-hjh/blog1/issues/5)
