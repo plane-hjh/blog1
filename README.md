@@ -16,31 +16,31 @@
 
 [树的遍历](https://github.com/plane-hjh/blog1/issues/4)
 
-[剑指offer-javascript版-从尾到头打印链表](https://github.com/plane-hjh/blog1/issues/6)
+[从尾到头打印链表](https://github.com/plane-hjh/blog1/issues/6)
 
-[剑指offer-javascript版-二维数组中的查找](https://github.com/plane-hjh/blog1/issues/7)
+[二维数组中的查找](https://github.com/plane-hjh/blog1/issues/7)
 
-[剑指offer-javascript版-斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
+[斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
 
-[剑指offer-javascript版-剪绳子](https://github.com/plane-hjh/blog1/issues/9)
+[剪绳子](https://github.com/plane-hjh/blog1/issues/9)
 
-[剑指offer-javascript版-替换空格](https://github.com/plane-hjh/blog1/issues/10)
+[替换空格](https://github.com/plane-hjh/blog1/issues/10)
 
-[剑指offer-javascript版-旋转数组的最小数字](https://github.com/plane-hjh/blog1/issues/11)
+[旋转数组的最小数字](https://github.com/plane-hjh/blog1/issues/11)
 
-[剑指offer-javascript版-用两个栈实现队列](https://github.com/plane-hjh/blog1/issues/12)
+[用两个栈实现队列](https://github.com/plane-hjh/blog1/issues/12)
 
-[剑指offer-javascript版-找出数组中的数字](https://github.com/plane-hjh/blog1/issues/13)
+[找出数组中的数字](https://github.com/plane-hjh/blog1/issues/13)
 
-[剑指offer-javascript版-重建二叉树](https://github.com/plane-hjh/blog1/issues/14)
+[重建二叉树](https://github.com/plane-hjh/blog1/issues/14)
 
-[剑指offer-javascript版-删除链表的节点](https://github.com/plane-hjh/blog1/issues/18)
+[删除链表的节点](https://github.com/plane-hjh/blog1/issues/18)
 
-[leetcode-javascript版-反转链表](https://github.com/plane-hjh/blog1/issues/15)
+[反转链表](https://github.com/plane-hjh/blog1/issues/15)
 
-[leetcode-javascript版-合并两个有序的链表](https://github.com/plane-hjh/blog1/issues/16)
+[合并两个有序的链表](https://github.com/plane-hjh/blog1/issues/16)
 
-[leetcode-javascript版-链表中倒数第k个节点](https://github.com/plane-hjh/blog1/issues/17)
+[链表中倒数第k个节点](https://github.com/plane-hjh/blog1/issues/17)
 
 ## http学习
 
