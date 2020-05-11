@@ -14,17 +14,13 @@
 
 ## 算法学习
 
-[树的遍历](https://github.com/plane-hjh/blog1/issues/4)
-
-[从尾到头打印链表](https://github.com/plane-hjh/blog1/issues/6)
-
-[二维数组中的查找](https://github.com/plane-hjh/blog1/issues/7)
-
-[斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
-
-[剪绳子](https://github.com/plane-hjh/blog1/issues/9)
+### 字符串
 
 [替换空格](https://github.com/plane-hjh/blog1/issues/10)
+
+### 数组/栈/队列
+
+[二维数组中的查找](https://github.com/plane-hjh/blog1/issues/7)
 
 [旋转数组的最小数字](https://github.com/plane-hjh/blog1/issues/11)
 
@@ -32,7 +28,9 @@
 
 [找出数组中的数字](https://github.com/plane-hjh/blog1/issues/13)
 
-[重建二叉树](https://github.com/plane-hjh/blog1/issues/14)
+### 链表
+
+[从尾到头打印链表](https://github.com/plane-hjh/blog1/issues/6)
 
 [删除链表的节点](https://github.com/plane-hjh/blog1/issues/18)
 
@@ -41,6 +39,19 @@
 [合并两个有序的链表](https://github.com/plane-hjh/blog1/issues/16)
 
 [链表中倒数第k个节点](https://github.com/plane-hjh/blog1/issues/17)
+
+### 树
+
+[树的遍历](https://github.com/plane-hjh/blog1/issues/4)
+
+[重建二叉树](https://github.com/plane-hjh/blog1/issues/14)
+
+### 递归
+
+[斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
+
+[剪绳子](https://github.com/plane-hjh/blog1/issues/9)
+
 
 ## http学习
 
