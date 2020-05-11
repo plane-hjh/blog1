@@ -20,6 +20,8 @@
 
 ### 数组/栈/队列
 
+[两数之和](https://github.com/plane-hjh/blog1/issues/20)
+
 [二维数组中的查找](https://github.com/plane-hjh/blog1/issues/7)
 
 [旋转数组的最小数字](https://github.com/plane-hjh/blog1/issues/11)
