@@ -56,8 +56,9 @@
 
 [斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
 
-[剪绳子](https://github.com/plane-hjh/blog1/issues/9)
+### 动态规划
 
+[剪绳子](https://github.com/plane-hjh/blog1/issues/9)
 
 ## http学习
 
