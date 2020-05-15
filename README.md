@@ -52,7 +52,7 @@
 
 [重建二叉树](https://github.com/plane-hjh/blog1/issues/14)
 
-[二叉树的最大深度](https://github.com/plane-hjh/blog1/issues/14)
+[二叉树的最大深度](https://github.com/plane-hjh/blog1/issues/25)
 
 ### 递归
 
