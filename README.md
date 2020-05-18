@@ -54,7 +54,7 @@
 
 [二叉树的最大深度](https://github.com/plane-hjh/blog1/issues/25)
 
-[二叉树的最近公共祖先]()
+[二叉树的最近公共祖先](https://github.com/plane-hjh/blog1/issues/26)
 
 ### 递归
 
