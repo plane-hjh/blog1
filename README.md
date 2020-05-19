@@ -56,6 +56,8 @@
 
 [二叉树的最近公共祖先](https://github.com/plane-hjh/blog1/issues/26)
 
+[平衡二叉树](https://github.com/plane-hjh/blog1/issues/27)
+
 ### 递归
 
 [斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
