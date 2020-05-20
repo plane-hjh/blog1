@@ -58,6 +58,8 @@
 
 [平衡二叉树](https://github.com/plane-hjh/blog1/issues/27)
 
+[路径总和](https://github.com/plane-hjh/blog1/issues/28)
+
 ### 递归
 
 [斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
