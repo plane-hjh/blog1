@@ -60,6 +60,8 @@
 
 [二叉树路径总和](https://github.com/plane-hjh/blog1/issues/28)
 
+[二叉树的层次遍历](https://github.com/plane-hjh/blog1/issues/29)
+
 ### 递归
 
 [斐波那契数列](https://github.com/plane-hjh/blog1/issues/8)
