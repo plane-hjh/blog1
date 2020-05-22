@@ -12,6 +12,8 @@
 
 [JavaScript深入理解之手写代码](https://github.com/plane-hjh/blog1/issues/3)
 
+[JavaScript深入理解之promise实现原理](https://github.com/plane-hjh/blog1/issues/31)
+
 ## 算法学习
 
 ### 字符串
