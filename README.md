@@ -16,7 +16,7 @@
 
 ## react 学习
 
-[react hooks 详解](https://github.com/plane-hjh/blog1/issues/33)
+[一文学会 react hook](https://github.com/plane-hjh/blog1/issues/33)
 
 react 的单元测试
 
