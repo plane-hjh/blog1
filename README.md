@@ -14,6 +14,24 @@
 
 [JavaScript深入理解之promise实现原理](https://github.com/plane-hjh/blog1/issues/31)
 
+## React
+
+[React Hooks 详解](https://github.com/plane-hjh/blog1/issues/33)
+
+React 的单元测试
+
+React 同构应用的思考
+
+## Node学习
+
+规划中...
+
+## 工程化
+
+前端异常监控以及埋点数据上报
+
+如何加快首屏渲染
+
 ## 算法学习
 
 ### 字符串
@@ -89,17 +107,3 @@ https 通信的过程
 DNS 的遍历
 
 service worker 的最佳实践
-
-## Node学习
-
-规划中...
-
-## 工程化
-
-前端异常监控以及埋点数据上报
-
-React 的单元测试
-
-React 同构应用的思考
-
-如何加快首屏渲染
