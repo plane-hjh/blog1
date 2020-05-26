@@ -78,6 +78,8 @@
 
 [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/plane-hjh/blog1/issues/32)
 
+[第一个只出现一次的字符](https://github.com/plane-hjh/blog1/issues/33)
+
 ## http学习
 
 [浏览器缓存的基本认识](https://github.com/plane-hjh/blog1/issues/5)
