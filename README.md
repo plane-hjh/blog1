@@ -14,13 +14,13 @@
 
 [JavaScript深入理解之promise实现原理](https://github.com/plane-hjh/blog1/issues/31)
 
-## React
+## react 学习
 
-[React Hooks 详解](https://github.com/plane-hjh/blog1/issues/33)
+[react hooks 详解](https://github.com/plane-hjh/blog1/issues/33)
 
-React 的单元测试
+react 的单元测试
 
-React 同构应用的思考
+react 同构应用的思考
 
 ## Node学习
 
