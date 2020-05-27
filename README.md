@@ -84,7 +84,7 @@ react 同构应用的思考
 
 [二叉树的层次遍历II](https://github.com/plane-hjh/blog1/issues/30)
 
-[对称二叉树](https://github.com/plane-hjh/blog1/issues/35)
+[对称二叉树](https://github.com/plane-hjh/blog1/issues/36)
 
 ### 递归
 
