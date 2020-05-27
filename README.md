@@ -113,7 +113,7 @@ DNS 的遍历
 
 service worker 的最佳实践
 
-## 职业发展
+## 推荐好文
 
 [一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
 
