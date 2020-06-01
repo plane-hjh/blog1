@@ -52,6 +52,8 @@ react 同构应用的思考
 
 [找出数组中的数字](https://github.com/plane-hjh/blog1/issues/13)
 
+[旋转矩阵](https://github.com/plane-hjh/blog1/issues/13)
+
 ### 链表
 
 [从尾到头打印链表](https://github.com/plane-hjh/blog1/issues/6)
