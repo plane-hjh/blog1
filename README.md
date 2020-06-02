@@ -14,6 +14,8 @@
 
 [JavaScript深入理解之promise实现原理](https://github.com/plane-hjh/blog1/issues/31)
 
+[用最简洁代码实现 indexOf 方法]()
+
 ## react 学习
 
 [一文学会 react hook](https://github.com/plane-hjh/blog1/issues/34)
