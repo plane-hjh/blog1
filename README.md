@@ -72,7 +72,7 @@ react 同构应用的思考
 
 ### 堆
 
-[最小的k个数](https://github.com/plane-hjh/blog1/issues/22)
+[最小的k个数](https://github.com/plane-hjh/blog1/issues/39)
 
 ### 树
 
