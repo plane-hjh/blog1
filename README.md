@@ -123,7 +123,9 @@ service worker 的最佳实践
 
 ## 推荐好文
 
-[一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
+[一个程序员的成长之路](https://github.com/fouber/blog/issues/41) ✨
 
 [Vuex、Flux、Redux、Redux-saga、Dva、MobX](https://zhuanlan.zhihu.com/p/53599723)
+
+[Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007) ✨
 
