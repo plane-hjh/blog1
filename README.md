@@ -129,3 +129,4 @@ service worker 的最佳实践
 
 [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007) ☆☆☆☆☆
 
+[HTTP/3详解](https://hungryturbo.com/HTTP3-explained/quic/%E5%BC%95%E8%A8%80.html)
