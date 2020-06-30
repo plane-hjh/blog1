@@ -123,7 +123,7 @@ service worker 的最佳实践
 
 ## 面试
 
-[面试总结]()
+[面试总结](https://github.com/plane-hjh/blog1/issues/40)
 
 ## 推荐好文
 
