@@ -125,6 +125,8 @@ service worker 的最佳实践
 
 [面试总结](https://github.com/plane-hjh/blog1/issues/40)
 
+[一些常用的手撕代码题解法](https://github.com/plane-hjh/blog1/issues/41)
+
 ## 推荐好文
 
 [一个程序员的成长之路](https://github.com/fouber/blog/issues/41) ☆☆☆☆☆
