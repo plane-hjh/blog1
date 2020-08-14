@@ -131,6 +131,8 @@ service worker 的最佳实践
 
 [一个程序员的成长之路](https://github.com/fouber/blog/issues/41) ☆☆☆☆☆
 
+[天生不聪明](https://mp.weixin.qq.com/s/QvXIDpyrpiOmvEhcOUUmxQ) ☆☆☆☆☆
+
 [Vuex、Flux、Redux、Redux-saga、Dva、MobX](https://zhuanlan.zhihu.com/p/53599723) ☆☆☆☆☆
 
 [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007) ☆☆☆☆☆
