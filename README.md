@@ -28,7 +28,7 @@ react 同构应用的思考
 
 ## Node学习
 
-node 实战学习
+[node 实战学习](https://github.com/plane-hjh/blog1/issues/43)
 
 ## 工程化
 
